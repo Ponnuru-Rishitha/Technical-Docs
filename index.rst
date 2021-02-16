@@ -8,13 +8,6 @@ Welcome to Project1's documentation!
 
 .. toctree::
    :maxdepth: 2
-   number.txt
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   :numbers:
+   
+   sample.md
